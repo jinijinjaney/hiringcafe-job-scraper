@@ -25,6 +25,8 @@ Each row has:
    ```bash
    pip install requests pandas
 2. Run the script:
+   ```bash
    python hiringcafe_scraper.py
 3. The jobs will be saved in:
+   ```bash
    The jobs will be saved in:
