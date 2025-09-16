@@ -1,7 +1,7 @@
 # HiringCafe Job Scraper
 
 ## What it does
-This script pulls job listings from HiringCafe for **“Marketing Director” in New York (last 14 days)** and saves them to a CSV file.
+This script pulls job listings from HiringCafe for **“Marketing Director”** in New York (last 14 days) and saves them to a CSV file.
 
 ## Files
 - `hiringcafe_scraper.py` → the Python script  
@@ -24,3 +24,7 @@ Each row has:
 1. Install the needed libraries:
    ```bash
    pip install requests pandas
+2. Run the script:
+   python hiringcafe_scraper.py
+3. The jobs will be saved in:
+   The jobs will be saved in:
