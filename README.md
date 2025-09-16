@@ -29,4 +29,4 @@ Each row has:
    python hiringcafe_scraper.py
 3. The jobs will be saved in:
    ```bash
-   The jobs will be saved in:
+   hiringcafe_jobs.csv
